@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket Kuamr</h1>
+<h1 align="center">Hi 👋, I'm Aniket Kumar</h1>
 <h3 align="center">A passionate FullStack developer from India.</h3>
 
 - 🌱 I’m currently learning **React**
